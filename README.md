@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Santhosh Akkisetti</h2>
 
 <h3 align="center">
-B.Tech 4rd Year | Frontend Learner | UI/UX Learner | AWS & ServiceNow Enthusiast
+B.Tech 4rd Year | Frontend Learner | UI/UX Designer | AWS & ServiceNow Enthusiast
 </h3>
 
 ---
