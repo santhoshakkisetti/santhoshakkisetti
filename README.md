@@ -1,4 +1,12 @@
-## Hi there 👋
+Create a modern GitHub developer profile showcase for Santhosh Akkisetti. Use a clean professional GitHub README style with a circular profile photo on the left and a modern developer profile layout.
+• Name: Santhosh Akkisetti
+• Heading: Hi, I am Santhosh 👋
+• Subtitle: B.Tech 3rd Year | Frontend Learner | AWS & ServiceNow Enthusiast
+• Tech stack icons: HTML5, CSS3, JavaScript, Figma, AWS, ServiceNow, Git, GitHub
+• Add GitHub contribution graph, profile views counter, followers section, and achievement badges
+• No project cards
+• Theme: Dark modern tech style with blue gradient background and subtle glowing effects
+• Clean, minimal, recruiter-friendly, premium developer aesthetic## Hi there 👋
 
 <!--
 **santhoshakkisetti/santhoshakkisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
