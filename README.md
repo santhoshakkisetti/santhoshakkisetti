@@ -1,24 +1,29 @@
-Create a modern GitHub developer profile showcase for Santhosh Akkisetti. Use a clean professional GitHub README style with a circular profile photo on the left and a modern developer profile layout.
-• Name: Santhosh Akkisetti
-• Heading: Hi, I am Santhosh 👋
-• Subtitle: B.Tech 3rd Year | Frontend Learner | AWS & ServiceNow Enthusiast
-• Tech stack icons: HTML5, CSS3, JavaScript, Figma, AWS, ServiceNow, Git, GitHub
-• Add GitHub contribution graph, profile views counter, followers section, and achievement badges
-• No project cards
-• Theme: Dark modern tech style with blue gradient background and subtle glowing effects
-• Clean, minimal, recruiter-friendly, premium developer aesthetic## Hi there 👋
+<h1 align="center">Hi 👋, I'm Santhosh Akkisetti</h1>
 
-<!--
-**santhoshakkisetti/santhoshakkisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">B.Tech 3rd Year | Frontend Learner | AWS & ServiceNow Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,aws" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🌱 Currently learning Frontend Development
+- ☁️ Learning AWS
+- ⚙️ Learning ServiceNow
+- 💻 Interested in IT and software development
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshakkisetti&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshakkisetti&layout=compact)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=santhoshakkisetti)
