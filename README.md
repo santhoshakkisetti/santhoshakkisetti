@@ -25,9 +25,9 @@ B.Tech 4rd Year | Frontend Learner | UI/UX Designer | AWS & ServiceNow Enthusias
 ## 🚀 About Me
 
 - 🌱 Currently learning Frontend Development
-- 🎨 Learning UI/UX with Figma
-- ☁️ Learning AWS
-- ⚙️ Learning ServiceNow
+- 🎨  UI/UX Designer using Figma
+- ☁️ Cloud Computing - AWS
+- ⚙️ ServiceNow - CSA,CAD
 - 💻 Interested in IT and software development
 
 ---
