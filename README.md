@@ -117,6 +117,13 @@ Developed a database-driven Employee Management System using MySQL to manage emp
 
 ---
 
+
+### 👨‍💼 Campus Placement Management System - servicenow (Documented)
+
+Created a ServiceNow-based placement management application for colleges.
+Utilized App Engine Studio, Flow Designer, Service Catalog, ACLs, Reports, and Dashboards to streamline the recruitment process.
+https://github.com/santhoshakkisetti/Campus-Placement-Management-System/blob/main/servicenowproject.pdf
+---
 ## 📜 Certifications
 
 * ✅ ServiceNow Certified System Administrator (CSA)
