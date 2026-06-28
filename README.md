@@ -1,184 +1,244 @@
-<h1 align="center">Santhosh Akkisetti</h1>
-
-<h2 align="center">Hi 👋, I'm Santhosh Akkisetti</h2>
+```markdown
+<h1 align="center">Hi 👋, I'm Santhosh Akkisetti</h1>
 
 <h3 align="center">
-B.Tech 4th Year | Frontend Developer | UI/UX Designer | AWS & ServiceNow Certified (CSA)
+B.Tech (EEE) Student | Frontend Developer | UI/UX Designer | AWS & ServiceNow CSA Certified
 </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Profile%20Views-230%2B-blue?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;UI%2FUX+Designer;AWS+Cloud+Learner;ServiceNow+CSA+Certified;Building+Real+World+Projects;Future+Software+Engineer"/>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=santhoshakkisetti&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/santhoshakkisetti?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/santhoshakkisetti?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-* 🎓 B.Tech 4th Year Student (EEE)
-* 🌱 Currently learning Frontend Development
-* 🎨 UI/UX Designer using Figma
-* ☁️ Exploring Cloud Computing with AWS
-* ⚙️ ServiceNow Certified System Administrator (CSA)
-* 💻 Interested in IT and Software Development
-* 🚀 Building real-world projects to strengthen my skills
+- 🎓 Final Year B.Tech (EEE) Student
+- 💻 Transitioning into Software Development
+- 🌱 Currently learning Frontend Development & SQL
+- 🎨 Passionate about UI/UX Design using Figma
+- ☁️ AWS Cloud Learner
+- ⚙️ ServiceNow Certified System Administrator (CSA)
+- 🚀 Building practical projects to strengthen my development skills
+- 📚 Continuously learning new technologies and improving problem-solving skills
 
 ---
 
-## 🧰 My Tech Toolbox
+# 🛠 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,aws,mysql" />
-</p>
+<p align="center">
 
-<p align="left">
-<img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,figma,aws"/>
+
 </p>
 
 ---
 
-## 🛠️ Skills
+# 💼 Skills
 
-### Frontend Development
+### 💻 Programming
 
-* HTML
-* CSS
-* JavaScript
+- Python
+- JavaScript
+- SQL
 
-### UI/UX Design
+### 🌐 Frontend
 
-* Figma
-* Wireframing
-* Prototyping
-* User Experience Design
+- HTML5
+- CSS3
+- JavaScript
 
-### Platforms & Cloud
+### 🎨 UI/UX
 
-* ServiceNow
-* AWS
+- Figma
+- Wireframing
+- Prototyping
+- User Research
 
-### Tools
+### ☁️ Cloud & Platforms
 
-* Git
-* GitHub
-* VS Code
-* MySQL
+- AWS
+- ServiceNow (CSA)
 
----
+### 🛠 Tools
 
-## 📂 Featured Projects
-
-### 🏦 SmartBank – Mobile Banking UI/UX Design
-
-**Banking made simple, life made better.**
-
-SmartBank is a modern mobile banking UI/UX prototype designed to provide a seamless and user-friendly banking experience. The application includes account management, fund transfers, withdrawals, bill payments, mobile recharges, credit card services, savings options, and transaction reports.
-
-#### Features
-
-* Account Management
-* Fund Transfer
-* Cash Withdrawal
-* Mobile Recharge
-* Bill Payments
-* Credit Card Services
-* Savings & Investments
-* Transaction Reports
-
-#### Tools Used
-
-* Figma
-* UI/UX Design Principles
-* Prototyping & Wireframing
-
-#### Prototype
-
-🔗 https://www.figma.com/proto/R7JGmobk6QwjUdOco2QkZI/banking-app
+- Git
+- GitHub
+- VS Code
+- MySQL
 
 ---
 
-### 👨‍💼 Employee Management System (MySQL)
+# 🚀 Featured Projects
 
-Developed a database-driven Employee Management System using MySQL to manage employee, department, attendance, payroll, and leave records.
+## 💳 SmartBank – Mobile Banking UI/UX
 
-#### Concepts Used
+Modern banking application designed in Figma.
 
-* SQL Queries
-* Joins
-* Views
-* Stored Procedures
-* Triggers
-* Functions
-* Indexing
-* Aggregate Functions
-* Subqueries
+### Features
 
----
+- Account Management
+- Fund Transfer
+- Mobile Recharge
+- Bill Payments
+- Savings
+- Credit Card Services
+- Transaction History
 
+### Tools Used
 
-### 👨‍💼 Campus Placement Management System - servicenow (Documented)
+- Figma
+- Wireframing
+- Prototyping
 
-Created a ServiceNow-based placement management application for colleges.
-Utilized App Engine Studio, Flow Designer, Service Catalog, ACLs, Reports, and Dashboards to streamline the recruitment process.
+🔗 **Prototype**
 
-
-https://github.com/santhoshakkisetti/Campus-Placement-Management-System/blob/main/servicenowproject.pdf
-
-
----
-## 📜 Certifications
-
-* ✅ ServiceNow Certified System Administrator (CSA)
-* ✅ ServiceNow Application Development Fundamentals
-* ✅ Scripting in ServiceNow Fundamentals
-* ✅ AWS Cloud Learning Programs
+https://www.figma.com/proto/R7JGmobk6QwjUdOco2QkZI/banking-app
 
 ---
 
-## 🌐 Connect with Me
+## 🗄 Employee Management System
 
-<p align="left">
+Database-driven Employee Management System using MySQL.
+
+### Concepts
+
+- CRUD Operations
+- Joins
+- Views
+- Stored Procedures
+- Functions
+- Triggers
+- Indexing
+- Aggregate Functions
+- Subqueries
+
+---
+
+## 🎓 Campus Placement Management System
+
+ServiceNow Application for managing campus recruitment.
+
+### Technologies
+
+- App Engine Studio
+- Flow Designer
+- Service Catalog
+- ACL
+- Reports
+- Dashboards
+
+📄 Documentation
+
+https://github.com/santhoshakkisetti/Campus-Placement-Management-System
+
+---
+
+# 📜 Certifications
+
+- ✅ ServiceNow Certified System Administrator (CSA)
+- ✅ ServiceNow Application Development Fundamentals
+- ✅ Scripting in ServiceNow Fundamentals
+- ✅ AWS Cloud Learning Programs
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshakkisetti&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=santhoshakkisetti&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshakkisetti&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshakkisetti&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshakkisetti&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=santhoshakkisetti&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- 🌐 Master Frontend Development
+- ⚛️ Learn React.js
+- ☁️ Improve AWS Skills
+- ⚙️ Learn ServiceNow Development
+- 🧠 Strengthen SQL & Problem Solving
+- 🚀 Land a Software Developer Role
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="mailto:santhoshakkisetti26@mail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/akkisetti-santhosh">
-<img src="https://img.shields.io/badge/LinkedIn-Santhosh-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://santhoshakkisetti.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
 </p>
 
-📧 **Email:** [santhoshakkisetti26@mail.com](mailto:santhoshakkisetti26@mail.com)
+---
 
-💼 **LinkedIn:** https://www.linkedin.com/in/akkisetti-santhosh
+# ⚡ Fun Fact
 
-🌐 **Portfolio:** https://santhoshakkisetti.github.io/portfolio/
+> I enjoy designing clean user interfaces, solving technical problems, and continuously learning technologies that help build impactful software.
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshakkisetti\&show_icons=true\&theme=tokyonight)
+### ⭐ Thanks for visiting my profile!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshakkisetti\&layout=compact\&theme=tokyonight)
+If you like my work, consider ⭐ starring my repositories and connecting with me.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=santhoshakkisetti\&theme=tokyonight)
-
----
-
-## 🎯 Current Goals
-
-* Master Frontend Development
-* Build Real-World Projects
-* Improve UI/UX Design Skills
-* Gain Hands-on Experience in ServiceNow Development
-* Start a Career in the IT Industry
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+</div>
+```
